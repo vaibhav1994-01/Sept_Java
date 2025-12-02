@@ -53,7 +53,6 @@ public class Demo2 {
 		System.out.println(D.substring(4,8)); //characters/words/space included at index 5 to 7
 		
 		System.out.println("====================LastIndexOf==========================");
-		System.out.println("====================test123==========================");
 		System.out.println(A.lastIndexOf("l")); //consider's last l of a sentence
 												//(if there are duplicate alphabets)
 		
