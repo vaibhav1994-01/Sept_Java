@@ -30,6 +30,7 @@ public class PrimitiveDataType {
 		
 		boolean i =true;
 		System.out.println(i);
+		System.out.println("Test");
 	}
 
 }
